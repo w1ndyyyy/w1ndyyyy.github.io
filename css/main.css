@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #77ebf4;
+  background: #ff14b6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2991,11 +2991,11 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("https://gitee.com/zxfireworks/BlogPic/raw/master/background.jpg");
+  background: url("/images/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: 50% 50%;
+  background-position: 100% 100%;
 }
 * {
   cursor: url("https://cdn.jsdelivr.net/gh/TRHX/CDN-for-itrhx.com@1.0/images/mouse.cur"), auto !important;
