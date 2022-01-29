@@ -1685,7 +1685,7 @@ pre .javascript .function {
 }
 .sidebar-inner {
   position: relative;
-  padding: 20px 10px;
+  padding: 10px 10px;
   color: #999;
   text-align: center;
 }
@@ -1819,7 +1819,7 @@ pre .javascript .function {
   margin-right: 10px;
   margin-bottom: 10px;
   border-bottom-color: #555;
-  font-size: 20px;
+  font-size: 13px;
 }
 .links-of-author a:before {
   display: inline-block;
@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #262fdf;
+  background: #c11606;
 }
 .links-of-blogroll {
   font-size: 13px;
