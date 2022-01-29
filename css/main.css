@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #dadb63;
+  background: #21fff6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2991,7 +2991,7 @@ pre .javascript .function {
   }
 }
 body {
-  background: url("https://gitee.com/zxfireworks/BlogPic/raw/master/background.jpg");
+background
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
