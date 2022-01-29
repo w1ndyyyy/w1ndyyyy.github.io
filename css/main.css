@@ -1819,7 +1819,7 @@ pre .javascript .function {
   margin-right: 10px;
   margin-bottom: 10px;
   border-bottom-color: #555;
-  font-size: 13px;
+  font-size: 20px;
 }
 .links-of-author a:before {
   display: inline-block;
@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #28ba9e;
+  background: #262fdf;
 }
 .links-of-blogroll {
   font-size: 13px;
