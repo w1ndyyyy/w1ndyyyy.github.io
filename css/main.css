@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #c4c7ff;
+  background: #9cbd55;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2891,6 +2891,7 @@ pre .javascript .function {
 }
 .links-of-author-item a:before {
   display: none;
+  background: rgba(0,255,255,0.1);
 }
 .links-of-author-item a {
   border-bottom: none;
