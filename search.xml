@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>基于CNN的恶意URL识别算法研究与实现</title>
+    <url>/post/b29ace19.html</url>
+    <content><![CDATA[<h3 id="问题分析"><a href="#问题分析" class="headerlink" title="问题分析"></a>问题分析</h3><p>对本文的模型、超参数的选择和设计进行分析</p>
+<h6 id="TextCNN为何适用"><a href="#TextCNN为何适用" class="headerlink" title="TextCNN为何适用"></a>TextCNN为何适用</h6><p>TextCNN借鉴了在图像领域的卷积神经网络，</p>
+<h6 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h6><p><a href="https://arxiv.org/pdf/1408.5882.pdf" target="_blank" rel="noopener">Convolutional Neural Networks for Sentence Classification</a></p>
+]]></content>
+      <categories>
+        <category>Deep Learning</category>
+      </categories>
+  </entry>
+  <entry>
     <title>Hello world!</title>
     <url>/post/1b851995.html</url>
     <content><![CDATA[<p>Hello world!</p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>基于CNN的恶意URL识别算法研究与实现</title>
-    <url>/post/b29ace19.html</url>
-    <content><![CDATA[<h3 id="问题分析"><a href="#问题分析" class="headerlink" title="问题分析"></a>问题分析</h3><p>对本文的模型、超参数的选择和设计进行分析</p>
-<h6 id="TextCNN为何适用"><a href="#TextCNN为何适用" class="headerlink" title="TextCNN为何适用"></a>TextCNN为何适用</h6>]]></content>
-      <categories>
-        <category>Deep Learning</category>
-      </categories>
   </entry>
 </search>
