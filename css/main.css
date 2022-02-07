@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #d2ff6a;
+  background: #a7753c;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2853,6 +2853,14 @@ pre .javascript .function {
   bottom: auto;
   -webkit-transform: none;
 }
+.sidebar a {
+  border-bottom-color: #fff;
+  color: #fff;
+}
+.sidebar a:hover {
+  border-bottom-color: $FFFFFF;
+  color: #fff;
+}
 .sidebar-inner {
   box-sizing: border-box;
   width: 240px;
@@ -2888,9 +2896,6 @@ pre .javascript .function {
 }
 .site-state-item {
   padding: 0 10px;
-}
-.links-of-author-item {
-  background: rgba(255,255,255,0.1);
 }
 .links-of-author-item a:before {
   display: none;
