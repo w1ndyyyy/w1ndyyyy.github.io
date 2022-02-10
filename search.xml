@@ -6,7 +6,8 @@
     <content><![CDATA[<h3 id="TextCNN为何适用"><a href="#TextCNN为何适用" class="headerlink" title="TextCNN为何适用"></a>TextCNN为何适用</h3><p>TextCNN借鉴了在CV领域的卷积神经网络，将其应用在了NLP领域。URL作为一种短文本数据，且单个文本的前后词之间关系不大，不需要进行左右卷积，因此是十分适合使用TextCNN来完成分类任务的。</p>
 <h3 id="输入矩阵的高度"><a href="#输入矩阵的高度" class="headerlink" title="输入矩阵的高度"></a>输入矩阵的高度</h3><p>本文采用99分位数来选取输入矩阵的高度，即每个URL在分词后的词向量维度。之所以使用99分位数，而不是平均数，这是因为平均数过于简单和一维，百分位数更能了解数据的真实性能特征。</p>
 <h3 id="卷积核的宽度和输入矩阵的宽度相同"><a href="#卷积核的宽度和输入矩阵的宽度相同" class="headerlink" title="卷积核的宽度和输入矩阵的宽度相同"></a>卷积核的宽度和输入矩阵的宽度相同</h3><p>在单个URL中，前后词之间的相互影响较小，即可省去对输入矩阵从左到右的卷积操作，这样卷积核的宽度就需要和输入矩阵的宽度保持一致</p>
-<h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="https://arxiv.org/pdf/1408.5882.pdf" target="_blank" rel="noopener">Convolutional Neural Networks for Sentence Classification</a><br><a href="https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/" target="_blank" rel="noopener">平均数与百分位数的性能</a></p>
+<h3 id="为什么要使用停用词"><a href="#为什么要使用停用词" class="headerlink" title="为什么要使用停用词"></a>为什么要使用停用词</h3><p>去掉高频、低价值的词，即信息量低的词</p>
+<h3 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h3><p><a href="https://arxiv.org/pdf/1408.5882.pdf" target="_blank" rel="noopener">Convolutional Neural Networks for Sentence Classification</a><br><a href="https://www.dynatrace.com/news/blog/why-averages-suck-and-percentiles-are-great/" target="_blank" rel="noopener">平均数与百分位数的性能</a><br><a href="https://zhuanlan.zhihu.com/p/335347401" target="_blank" rel="noopener">停用词(Stop Words)的价值、收集与使用-李鹏宇</a></p>
 ]]></content>
       <categories>
         <category>Deep Learning</category>
