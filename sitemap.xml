@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://w1ndy.cn/about/index.html</loc>
+    
+    <lastmod>2022-03-06</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://w1ndy.cn/links/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
@@ -10,13 +17,6 @@
   
   <url>
     <loc>https://w1ndy.cn/categories/index.html</loc>
-    
-    <lastmod>2022-03-06</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://w1ndy.cn/about/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
     
