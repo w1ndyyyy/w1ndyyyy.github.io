@@ -186,9 +186,9 @@ th {
 body {
   position: relative;
   font-family: 'Ma Shan Zheng', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 2;
-  color: #555;
+  color: #000;
   background: #eee;
 }
 @media (max-width: 767px) {
@@ -203,7 +203,7 @@ body {
 }
 @media (min-width: 1600px) {
   body {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 h1,
@@ -277,10 +277,10 @@ p {
   margin: 0 0 20px 0;
 }
 a {
-  color: #555;
+  color: #000;
   text-decoration: none;
   outline: none;
-  border-bottom: 1px solid #999;
+  border-bottom: 1px solid #000;
   word-wrap: break-word;
 }
 a:hover {
@@ -386,7 +386,7 @@ kbd {
 .translation {
   margin-top: -20px;
   font-size: 14px;
-  color: #999;
+  color: #000;
 }
 .scrollbar-measure {
   width: 100px;
@@ -404,7 +404,7 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
   border: 1px solid #ddd;
-  font-size: 14px;
+  font-size: 15px;
   table-layout: fixed;
   word-wrap: break-all;
 }
@@ -445,7 +445,7 @@ body {
 .header-inner {
   margin: 0 auto;
   padding: 100px 0 70px;
-  width: 700px;
+  width: 780px;
 }
 @media (min-width: 1600px) {
   .container .header-inner {
@@ -453,11 +453,11 @@ body {
   }
 }
 .main {
-  padding-bottom: 150px;
+  padding-bottom: 85px;
 }
 .main-inner {
   margin: 0 auto;
-  width: 700px;
+  width: 780px;
 }
 @media (min-width: 1600px) {
   .container .main-inner {
@@ -469,12 +469,12 @@ body {
   left: 0;
   bottom: 0;
   width: 100%;
-  min-height: 50px;
+  min-height: 5px;
 }
 .footer-inner {
   box-sizing: border-box;
   margin: 20px auto;
-  width: 700px;
+  width: 780px;
 }
 @media (min-width: 1600px) {
   .container .footer-inner {
@@ -486,7 +486,7 @@ pre,
   overflow: auto;
   margin: 20px 0;
   padding: 0;
-  font-size: 13px;
+  font-size: 15px;
   color: #eaeaea;
   background: #000;
   line-height: 1.6;
@@ -498,10 +498,10 @@ code {
 code {
   padding: 2px 4px;
   word-wrap: break-word;
-  color: #555;
+  color: #000;
   background: #eee;
   border-radius: 3px;
-  font-size: 13px;
+  font-size: 15px;
 }
 pre {
   padding: 10px;
@@ -921,7 +921,7 @@ pre .javascript .function {
 }
 .post-body .tabs ul.nav-tabs li.tab.active a {
   cursor: default;
-  color: #555;
+  color: #000;
 }
 .post-body .tabs .tab-content {
   background-color: #fff;
@@ -940,9 +940,9 @@ pre .javascript .function {
   display: inline-block;
   padding: 0 20px;
   font-size: 14px;
-  color: #555;
+  color: #000;
   background: #fff;
-  border: 2px solid #555;
+  border: 2px solid #000;
   text-decoration: none;
   border-radius: 2px;
   transition-property: background-color;
@@ -967,7 +967,7 @@ pre .javascript .function {
   display: block;
   width: 22px;
   height: 2px;
-  background: #555;
+  background: #000;
   border-radius: 1px;
 }
 .btn-bar+.btn-bar {
@@ -1131,7 +1131,7 @@ pre .javascript .function {
 }
 .site-subtitle {
   margin-top: 10px;
-  font-size: 13px;
+  font-size: 15px;
   color: #ddd;
 }
 .use-motion .brand {
@@ -1197,7 +1197,7 @@ pre .javascript .function {
 }
 .menu .menu-item a {
   display: block;
-  font-size: 13px;
+  font-size: 15px;
   line-height: inherit;
   border-bottom: 1px solid transparent;
   transition-property: border-color;
@@ -1234,8 +1234,8 @@ pre .javascript .function {
 .post-body .figure .caption {
   margin: -20px auto 15px;
   text-align: center;
-  font-size: 14px;
-  color: #999;
+  font-size: 15px;
+  color: #000;
   font-weight: bold;
   line-height: 1;
 }
@@ -1372,7 +1372,7 @@ pre .javascript .function {
   margin-left: 20px;
 }
 .posts-collapse .collection-title small {
-  color: #bbb;
+  color: #000;
   margin-left: 5px;
 }
 .posts-collapse .collection-title::before {
@@ -1384,7 +1384,7 @@ pre .javascript .function {
   margin-top: -4px;
   width: 8px;
   height: 8px;
-  background: #bbb;
+  background: #000;
   border-radius: 50%;
 }
 .posts-collapse .post {
@@ -1406,7 +1406,7 @@ pre .javascript .function {
   width: 6px;
   height: 6px;
   margin-left: -4px;
-  background: #bbb;
+  background: #000;
   border-radius: 50%;
   border: 1px solid #fff;
   transition-duration: 0.2s;
@@ -1440,7 +1440,7 @@ pre .javascript .function {
   opacity: 0.6;
 }
 .posts-collapse .post-title a {
-  color: #666;
+  color: #000;
   border-bottom: none;
 }
 .page-home .post-type-quote .post-header,
@@ -1457,7 +1457,7 @@ pre .javascript .function {
 .posts-expand .post-title-link {
   display: inline-block;
   position: relative;
-  color: #555;
+  color: #000;
   border-bottom: none;
   line-height: 1.2;
   vertical-align: top;
@@ -1493,7 +1493,7 @@ pre .javascript .function {
 }
 .posts-expand .post-meta {
   margin: 3px 0 60px 0;
-  color: #999;
+  color: #000;
   font-family: 'Ma Shan Zheng', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 12px;
   text-align: center;
@@ -1504,7 +1504,7 @@ pre .javascript .function {
   padding: 3px;
 }
 .posts-expand .post-meta .post-category-list-link {
-  color: #999;
+  color: #000;
 }
 .posts-expand .post-meta .post-description {
   font-size: 14px;
@@ -1574,7 +1574,7 @@ pre .javascript .function {
   display: block;
   line-height: 25px;
   font-size: 14px;
-  color: #555;
+  color: #000;
   border-bottom: none;
 }
 .post-nav-item a:hover {
@@ -1667,8 +1667,8 @@ pre .javascript .function {
   -webkit-transform: translateZ(0);
 }
 .sidebar a {
-  color: #999;
-  border-bottom-color: #555;
+  color: #000;
+  border-bottom-color: #000;
 }
 .sidebar a:hover {
   color: #eee;
@@ -1686,7 +1686,7 @@ pre .javascript .function {
 .sidebar-inner {
   position: relative;
   padding: 20px 10px;
-  color: #999;
+  color: #000;
   text-align: center;
 }
 .site-overview-wrap {
@@ -1758,8 +1758,8 @@ pre .javascript .function {
 .site-description {
   margin-top: 0;
   text-align: center;
-  font-size: 13px;
-  color: #999;
+  font-size: 15px;
+  color: #000;
 }
 .site-state {
   overflow: hidden;
@@ -1783,11 +1783,11 @@ pre .javascript .function {
   text-align: center;
   color: inherit;
   font-weight: 600;
-  font-size: 16px;
+  font-size: 15px;
 }
 .site-state-item-name {
-  font-size: 13px;
-  color: #999;
+  font-size: 15px;
+  color: #000;
 }
 .feed-link {
   margin-top: 20px;
@@ -1818,8 +1818,8 @@ pre .javascript .function {
   vertical-align: middle;
   margin-right: 10px;
   margin-bottom: 10px;
-  border-bottom-color: #555;
-  font-size: 13px;
+  border-bottom-color: #000;
+  font-size: 16px;
 }
 .links-of-author a:before {
   display: inline-block;
@@ -1829,7 +1829,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #e73c87;
+  background: #38ff9d;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -1864,7 +1864,7 @@ pre .javascript .function {
   cursor: pointer;
   border-bottom: 1px solid transparent;
   font-size: 14px;
-  color: #555;
+  color: #000;
 }
 .sidebar-nav li:hover {
   color: #fc6423;
@@ -1950,8 +1950,8 @@ pre .javascript .function {
   color: #fc6423;
 }
 .footer {
-  font-size: 14px;
-  color: #555;
+  font-size: 18px;
+  color: #fff;
 }
 .footer img {
   border: none;
@@ -2390,7 +2390,7 @@ pre .javascript .function {
   width: 10px;
   height: 10px;
   opacity: 0.5;
-  background: #555;
+  background: #000;
   border: 1px solid #fff;
   border-radius: 50%;
 }
@@ -2409,7 +2409,7 @@ pre .javascript .function {
   margin: 5px 10px;
 }
 .category-all-page .category-list-count {
-  color: #bbb;
+  color: #000;
 }
 .category-all-page .category-list-count:before {
   display: inline;
@@ -2598,7 +2598,7 @@ pre .javascript .function {
 .header {
   position: relative;
   margin: 0 auto;
-  width: 960px;
+  width: 1100px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .header {
@@ -2615,8 +2615,8 @@ pre .javascript .function {
   top: 0;
   overflow: hidden;
   padding: 0;
-  width: 240px;
-  background: rgba(255,255,255,0.1);
+  width: 270px;
+  background: rgba(255,255,255,0.5);
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
   border-radius: 15px 15px 15px 15px;
 }
@@ -2658,7 +2658,7 @@ pre .javascript .function {
   }
 }
 .container .main-inner {
-  width: 960px;
+  width: 1100px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .container .main-inner {
@@ -2673,8 +2673,8 @@ pre .javascript .function {
 .content-wrap {
   float: right;
   box-sizing: border-box;
-  padding: 40px;
-  width: 700px;
+  padding: 30px;
+  width: 780px;
   background: rgba(255,255,255,0.5);
   min-height: 700px;
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12);
@@ -2699,8 +2699,8 @@ pre .javascript .function {
   position: static;
   float: left;
   margin-top: 300px;
-  width: 240px;
-  background: rgba(255,255,255,0.1);
+  width: 270px;
+  background: rgba(255,255,255,0);
   box-shadow: none;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2717,7 +2717,7 @@ pre .javascript .function {
   display: none;
 }
 .footer-inner {
-  width: 960px;
+  width: 1100px;
   padding-left: 260px;
 }
 @media (min-width: 768px) and (max-width: 991px) {
@@ -2798,6 +2798,7 @@ pre .javascript .function {
 }
 .menu .menu-item a {
   position: relative;
+  font-size: 15px;
   box-sizing: border-box;
   padding: 5px 20px;
   text-align: left;
@@ -2824,7 +2825,7 @@ pre .javascript .function {
   width: 6px;
   height: 6px;
   border-radius: 50%;
-  background-color: #bbb;
+  background-color: #000;
 }
 .btn-bar {
   background-color: #fff;
@@ -2855,9 +2856,9 @@ pre .javascript .function {
 }
 .sidebar-inner {
   box-sizing: border-box;
-  width: 240px;
-  color: #555;
-  background: rgba(255,255,255,0.1);
+  width: 270px;
+  color: #000;
+  background: rgba(255,255,255,0.5);
   box-shadow: 0 2px 2px 0 rgba(0,0,0,0.12), 0 3px 1px -2px rgba(0,0,0,0.06), 0 1px 5px 0 rgba(0,0,0,0.12), 0 -1px 0.5px 0 rgba(0,0,0,0.09);
   border-radius: 15px;
   opacity: 1;
@@ -2881,7 +2882,7 @@ pre .javascript .function {
   clear: both;
 }
 .sidebar a {
-  color: #555;
+  color: #000;
 }
 .sidebar a:hover {
   color: #222;
