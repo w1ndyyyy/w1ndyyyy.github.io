@@ -67,7 +67,7 @@
 
   <url>
     <loc>https://www.w1ndy.cn/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -76,22 +76,22 @@
 
   
   <url>
-    <loc>https://www.w1ndy.cn/categories/Deep-Learning/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <loc>https://www.w1ndy.cn/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
+    <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://www.w1ndy.cn/categories/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://www.w1ndy.cn/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
-    <lastmod>2022-03-11</lastmod>
+    <loc>https://www.w1ndy.cn/categories/Deep-Learning/</loc>
+    <lastmod>2022-03-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
