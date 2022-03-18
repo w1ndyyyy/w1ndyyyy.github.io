@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://w1ndy.cn/post/9018b838.html</loc>
-    
-    <lastmod>2022-03-06</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://w1ndy.cn/about/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
@@ -44,20 +37,6 @@
   </url>
   
   <url>
-    <loc>https://w1ndy.cn/post/808383bb.html</loc>
-    
-    <lastmod>2020-11-24</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://w1ndy.cn/post/cc0e11b5.html</loc>
-    
-    <lastmod>2020-11-22</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://w1ndy.cn/lib/pace/README.html</loc>
     
     <lastmod>2020-04-22</lastmod>
@@ -67,7 +46,7 @@
 
   <url>
     <loc>https://w1ndy.cn/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -76,22 +55,8 @@
 
   
   <url>
-    <loc>https://w1ndy.cn/categories/%E5%B1%80%E5%9F%9F%E7%BD%91%E5%AE%89%E5%85%A8/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://w1ndy.cn/categories/%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0/</loc>
-    <lastmod>2022-03-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://w1ndy.cn/categories/Deep-Learning/</loc>
-    <lastmod>2022-03-13</lastmod>
+    <lastmod>2022-03-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
