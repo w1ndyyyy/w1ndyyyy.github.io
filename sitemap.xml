@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://w1ndy.cn/post/8fdb4f12.html</loc>
-    
-    <lastmod>2022-05-02</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://w1ndy.cn/about/index.html</loc>
     
     <lastmod>2022-03-06</lastmod>
@@ -37,13 +30,6 @@
   </url>
   
   <url>
-    <loc>https://w1ndy.cn/post/b29ace19.html</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://w1ndy.cn/lib/pace/README.html</loc>
     
     <lastmod>2020-04-22</lastmod>
@@ -53,7 +39,7 @@
 
   <url>
     <loc>https://w1ndy.cn/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -63,7 +49,7 @@
   
   <url>
     <loc>https://w1ndy.cn/categories/Deep-Learning/</loc>
-    <lastmod>2022-05-02</lastmod>
+    <lastmod>2022-05-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
